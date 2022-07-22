@@ -1,0 +1,16 @@
+ Hi, I’m Leila!
+ 
+- ✨ She/Her
+
+- 👀 I’m interested in Web Development and QA
+
+- 🌱 I’m currently learning JavaScript
+
+- 👯 I’m studying at [PretaLab](https://www.pretalab.com) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech/)
+
+- 📫 How to reach me: 🌐[LinkedIn](https://www.linkedin.com/in/leila-s-menezes)
+
+<!---
+leidevsan/leidevsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
