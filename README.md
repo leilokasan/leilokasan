@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning JavaScript
 
-- 👯 I’m attending the bootcamps [PretaLab](https://www.pretalab.com) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech/)
+- 👯 I’m attending the bootcamps [PretaLab](https://www.pretalab.com) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech)
 
 - 📫 How to reach me: 🌐[LinkedIn](https://www.linkedin.com/in/leila-s-menezes)
 
