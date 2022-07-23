@@ -1,6 +1,6 @@
  Hi, I’m Leila!
  
-- ✨ She/Her
+- ✨👩🏽‍💻 She/Her
 
 - 👀 I’m interested in Web Development and QA
 
