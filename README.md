@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development and QA
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 
 - 👯 I’m attending the bootcamps [PretaLab](https://www.pretalab.com) (Olabi) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech) (JA Brasil/CCR/IBM)
 
