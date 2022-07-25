@@ -2,7 +2,7 @@
  
 - ✨👩🏽‍💻 She/Her
 
-- 👀 I’m interested in Web Development and QA
+- 👀 I’m interested in Web Development, Data Science and QA
 
 - 🌱 I’m currently learning JavaScript and Python
 
