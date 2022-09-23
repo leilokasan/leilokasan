@@ -4,9 +4,9 @@
 
 - 👀 I’m interested in Web Development, Data Science and QA
 
-- 🌱 I’m currently learning ReactJS and Python
+- 🌱 I’m currently learning Python
 
-- 👯 I’m attending the coding bootcamps: [PretaLab](https://www.pretalab.com) (Olabi) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech) (JA Brasil/CCR/IBM)
+- 👯 I’m attending the coding bootcamps: [StartSe](https://www.startse.com) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech) (JA Brasil/CCR/IBM)
 
 - 📫 How to reach me: 🌐[LinkedIn](https://www.linkedin.com/in/leila-s-menezes)
 
