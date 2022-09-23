@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 👯 I’m attending the coding bootcamps: [StartSe](https://www.startse.com) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech) (JA Brasil/CCR/IBM)
+- 👯 I’m attending the coding bootcamps: [StartSe](https://www.startse.com) (Tech Academy) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech) (JA Brasil/CCR/IBM)
 
 - 📫 How to reach me: 🌐[LinkedIn](https://www.linkedin.com/in/leila-s-menezes)
 
