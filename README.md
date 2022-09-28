@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development, Data Science and QA
 
-- 🌱 I’m currently learning Java Script and Python
+- 🌱 I’m currently learning Python.
 
 - 👯 I’m attending the coding bootcamps: [StartSe](https://www.startse.com) (Tech Academy) and [ElasNaTech](https://jabrasil.org.br/institutoccr-elasnatech) (JA Brasil/CCR/IBM)
 
