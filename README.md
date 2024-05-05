@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 📫 How to reach me: 🌐[LinkedIn](https://www.linkedin.com/in/leila-s-menezes)
+- 📫 How to reach me: 🌐[LinkedIn](https://www.linkedin.com/in/leilasantoz)
 
 
 <h4> Learning: </h4>
